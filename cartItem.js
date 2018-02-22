@@ -7,4 +7,4 @@ class CartItem {
     }
 }
 
-module.exports.CartItem = CartItem;
+module.exports = CartItem;
